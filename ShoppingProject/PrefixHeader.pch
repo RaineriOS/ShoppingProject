@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  ShoppingProject
+//
+//  Created by 粤峰 on 15/12/17.
+//  Copyright © 2015年 郑永能. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import "YNFoundation.h"
+#import "SNFoundation.h"
+#import "SNLogger.h"
+
+
+#pragma mark - Constant
+#import "PathConstant.h"
+#import "AppConstant.h"
+
+#pragma mark - UI
+#import "SNUIImageView.h"
+#import "SNUIButton.h"
+#import "CommonViewController.h"
+#import "Masonry.h"
+#endif
+
