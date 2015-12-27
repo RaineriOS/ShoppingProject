@@ -903,6 +903,11 @@
 		D3B217761C2C3EF900EDD067 /* AllCategoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B217751C2C3EF900EDD067 /* AllCategoryViewController.m */; };
 		D3B217791C2C3F3C00EDD067 /* ShopCartV2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B217781C2C3F3C00EDD067 /* ShopCartV2ViewController.m */; };
 		D3B2177E1C2C3FB500EDD067 /* MyEbuyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B2177D1C2C3FB500EDD067 /* MyEbuyViewController.m */; };
+		D3B217941C2F25DC00EDD067 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B217931C2F25DC00EDD067 /* LoginViewController.m */; };
+		D3B217981C2FA1A000EDD067 /* DataService.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B217971C2FA1A000EDD067 /* DataService.m */; };
+		D3B2179B1C2FA1BF00EDD067 /* UserLoginService.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B2179A1C2FA1BF00EDD067 /* UserLoginService.m */; };
+		D3B2179E1C2FA39B00EDD067 /* HttpMsgCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B2179D1C2FA39B00EDD067 /* HttpMsgCtrl.m */; };
+		D3B217A11C2FA46D00EDD067 /* HttpMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B217A01C2FA46D00EDD067 /* HttpMessage.m */; };
 		D3BC456B1C272D23005117DE /* SNUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BC456A1C272D23005117DE /* SNUIButton.m */; };
 		D3BC45751C286F11005117DE /* SNUIImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BC45741C286F11005117DE /* SNUIImageView.m */; };
 		D3BC45781C290818005117DE /* DAO.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BC45771C290818005117DE /* DAO.m */; };
@@ -1868,6 +1873,17 @@
 		D3B217781C2C3F3C00EDD067 /* ShopCartV2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShopCartV2ViewController.m; sourceTree = "<group>"; };
 		D3B2177C1C2C3FB500EDD067 /* MyEbuyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyEbuyViewController.h; sourceTree = "<group>"; };
 		D3B2177D1C2C3FB500EDD067 /* MyEbuyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyEbuyViewController.m; sourceTree = "<group>"; };
+		D3B217921C2F25DC00EDD067 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		D3B217931C2F25DC00EDD067 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		D3B217961C2FA1A000EDD067 /* DataService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataService.h; sourceTree = "<group>"; };
+		D3B217971C2FA1A000EDD067 /* DataService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataService.m; sourceTree = "<group>"; };
+		D3B217991C2FA1BF00EDD067 /* UserLoginService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserLoginService.h; sourceTree = "<group>"; };
+		D3B2179A1C2FA1BF00EDD067 /* UserLoginService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserLoginService.m; sourceTree = "<group>"; };
+		D3B2179C1C2FA39B00EDD067 /* HttpMsgCtrl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpMsgCtrl.h; sourceTree = "<group>"; };
+		D3B2179D1C2FA39B00EDD067 /* HttpMsgCtrl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpMsgCtrl.m; sourceTree = "<group>"; };
+		D3B2179F1C2FA46D00EDD067 /* HttpMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpMessage.h; sourceTree = "<group>"; };
+		D3B217A01C2FA46D00EDD067 /* HttpMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpMessage.m; sourceTree = "<group>"; };
+		D3B217A31C2FCE3500EDD067 /* MsgConstant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MsgConstant.h; sourceTree = "<group>"; };
 		D3BC45691C272D23005117DE /* SNUIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNUIButton.h; sourceTree = "<group>"; };
 		D3BC456A1C272D23005117DE /* SNUIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNUIButton.m; sourceTree = "<group>"; };
 		D3BC45731C286F11005117DE /* SNUIImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNUIImageView.h; sourceTree = "<group>"; };
@@ -2060,6 +2076,7 @@
 			children = (
 				D3BC45811C294293005117DE /* PathConstant.h */,
 				D3BC45991C2A6525005117DE /* AppConstant.h */,
+				D3B217A31C2FCE3500EDD067 /* MsgConstant.h */,
 			);
 			path = Constant;
 			sourceTree = "<group>";
@@ -2360,6 +2377,7 @@
 		D3A9157B1C21B4ED0079DBD4 /* Usercenter */ = {
 			isa = PBXGroup;
 			children = (
+				D3B217901C2F25D000EDD067 /* LoginRegister */,
 			);
 			path = Usercenter;
 			sourceTree = "<group>";
@@ -2478,6 +2496,10 @@
 		D3A9158B1C21B5DF0079DBD4 /* Http */ = {
 			isa = PBXGroup;
 			children = (
+				D3B2179C1C2FA39B00EDD067 /* HttpMsgCtrl.h */,
+				D3B2179D1C2FA39B00EDD067 /* HttpMsgCtrl.m */,
+				D3B2179F1C2FA46D00EDD067 /* HttpMessage.h */,
+				D3B217A01C2FA46D00EDD067 /* HttpMessage.m */,
 			);
 			path = Http;
 			sourceTree = "<group>";
@@ -2533,6 +2555,8 @@
 		D3A915921C21B5DF0079DBD4 /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				D3B217961C2FA1A000EDD067 /* DataService.h */,
+				D3B217971C2FA1A000EDD067 /* DataService.m */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -3737,6 +3761,33 @@
 			path = MyEBuy;
 			sourceTree = "<group>";
 		};
+		D3B217901C2F25D000EDD067 /* LoginRegister */ = {
+			isa = PBXGroup;
+			children = (
+				D3B217951C2FA18100EDD067 /* Service */,
+				D3B217911C2F25D000EDD067 /* Controller */,
+			);
+			path = LoginRegister;
+			sourceTree = "<group>";
+		};
+		D3B217911C2F25D000EDD067 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D3B217921C2F25DC00EDD067 /* LoginViewController.h */,
+				D3B217931C2F25DC00EDD067 /* LoginViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		D3B217951C2FA18100EDD067 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				D3B217991C2FA1BF00EDD067 /* UserLoginService.h */,
+				D3B2179A1C2FA1BF00EDD067 /* UserLoginService.m */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
 		D3BC458F1C2A621B005117DE /* Controller */ = {
 			isa = PBXGroup;
 			children = (
@@ -4813,6 +4864,7 @@
 				D38E1A2E1C227AA100C57481 /* NSArray+SNFoundation.m in Sources */,
 				D3BC459C1C2A6586005117DE /* ScreenShotView.m in Sources */,
 				D3B2176A1C2C2A9100EDD067 /* AuthManagerNavViewController.m in Sources */,
+				D3B2179E1C2FA39B00EDD067 /* HttpMsgCtrl.m in Sources */,
 				D38E1A3A1C227AA100C57481 /* UIColor+SNFoundation.m in Sources */,
 				D3BC45781C290818005117DE /* DAO.m in Sources */,
 				D3B217761C2C3EF900EDD067 /* AllCategoryViewController.m in Sources */,
@@ -4831,10 +4883,12 @@
 				D38E1A2F1C227AA100C57481 /* NSData+Base64.m in Sources */,
 				D3B217731C2C3ED100EDD067 /* CategoryViewController.m in Sources */,
 				D38E1A331C227AA100C57481 /* NSDate+SNFoundation.m in Sources */,
+				D3B217981C2FA1A000EDD067 /* DataService.m in Sources */,
 				D3BC458E1C2A5D0F005117DE /* CommonViewController.m in Sources */,
 				D38E1A381C227AA100C57481 /* SNTimer.m in Sources */,
 				D3A9F3AF1C219C420079DBD4 /* main.m in Sources */,
 				D38E1A321C227AA100C57481 /* NSData+SNFoundation.m in Sources */,
+				D3B2179B1C2FA1BF00EDD067 /* UserLoginService.m in Sources */,
 				D38E1A2D1C227AA100C57481 /* IPAddress.c in Sources */,
 				D3BC456B1C272D23005117DE /* SNUIButton.m in Sources */,
 				D38E1A3C1C227AA100C57481 /* UIView+SNFoundation.m in Sources */,
@@ -4842,7 +4896,9 @@
 				D38E1A351C227AA100C57481 /* SNCache.m in Sources */,
 				D38E1A3D1C227AA100C57481 /* UIWebView+SNFoundation.m in Sources */,
 				D3BC45881C2A5B36005117DE /* TabBarController.m in Sources */,
+				D3B217941C2F25DC00EDD067 /* LoginViewController.m in Sources */,
 				D38E1A391C227AA100C57481 /* SystemInfo.m in Sources */,
+				D3B217A11C2FA46D00EDD067 /* HttpMessage.m in Sources */,
 				D3B2176F1C2C3E8B00EDD067 /* NewSearchViewController.m in Sources */,
 				D38E1A371C227AA100C57481 /* SNSandBox.m in Sources */,
 			);

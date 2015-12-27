@@ -23,8 +23,6 @@ extern NSString *searchTitle;//搜索方式
 
 
 
-
-
 @property (nonatomic, assign) BOOL bSupportPanUI;//是否支持拖动pop手势，默认yes
 
 

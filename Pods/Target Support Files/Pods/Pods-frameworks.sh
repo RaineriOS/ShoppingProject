@@ -90,10 +90,10 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods/MBProgressHUD.framework"
   install_framework "Pods/MJExtension.framework"
   install_framework "Pods/MJRefresh.framework"
-  install_framework "Pods/Masonry.framework"
   install_framework "Pods/OpenUDID.framework"
   install_framework "Pods/Reachability.framework"
   install_framework "Pods/SBJson.framework"
+  install_framework "Pods/SDAutoLayout.framework"
   install_framework "Pods/SDWebImage.framework"
   install_framework "Pods/SSKeychain.framework"
 fi
@@ -104,10 +104,10 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods/MBProgressHUD.framework"
   install_framework "Pods/MJExtension.framework"
   install_framework "Pods/MJRefresh.framework"
-  install_framework "Pods/Masonry.framework"
   install_framework "Pods/OpenUDID.framework"
   install_framework "Pods/Reachability.framework"
   install_framework "Pods/SBJson.framework"
+  install_framework "Pods/SDAutoLayout.framework"
   install_framework "Pods/SDWebImage.framework"
   install_framework "Pods/SSKeychain.framework"
 fi

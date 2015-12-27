@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E77F7D9740DCED8DBEABCC7C'
-               BlueprintName = 'MJRefresh'
+               BlueprintIdentifier = '499395B7801C785510048326'
+               BlueprintName = 'SDAutoLayout'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'MJRefresh.framework'>
+               BuildableName = 'SDAutoLayout.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

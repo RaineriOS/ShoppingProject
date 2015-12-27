@@ -8,9 +8,9 @@
        pod 'MJExtension', '~> 3.0.7'
        pod 'MJRefresh', '~> 3.0.7'
        pod 'AFNetworking', '~> 3.0.0-beta.2'
-	
+
        pod 'MBProgressHUD', '~> 0.9.1'
        pod 'Reachability', '~> 3.2'
        pod 'FMDB', '~> 2.5'
        pod 'CocoaLumberjack', '~> 1.9.2'
-       pod 'Masonry', '~> 0.6.3'
+       pod 'SDAutoLayout', '~> 1.1'

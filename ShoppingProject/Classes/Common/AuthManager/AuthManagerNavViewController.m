@@ -14,6 +14,30 @@
 
 @implementation AuthManagerNavViewController
 
+- (id)initWithRootViewController:(UIViewController *)rootViewController hasTopRoundCorner:(BOOL)isTopRound
+{
+    self = [super initWithRootViewController:rootViewController];
+    if (self) {
+        /*
+        isLastStatus = NO;
+        [self setNavigationBackground:NO];
+        
+        self.delegate = self;
+        
+        if ([rootViewController isKindOfClass:[CommonViewController class]])
+        {
+            if (![(CommonViewController *)rootViewController hasNav])
+            {
+                self.navigationBarHidden = YES;
+            }
+        }
+         */
+    }
+    return self;
+}
+
+
+
 - (void)viewDidLoad {
     
     [super viewDidLoad];
